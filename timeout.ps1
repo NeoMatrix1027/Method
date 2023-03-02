@@ -1,7 +1,7 @@
-# Credits By github.com/ZheHacK
-$i = 2147483
+# Credits By github.com/EfeMethoder
+$i = 214748
 do {
     Write-Host $i
-    Sleep 2147483
+    Sleep 214748
     $i--
 } while ($i -gt 0)
