@@ -1,7 +1,7 @@
 # Credits By github.com/EfeMethoder
-$i = 214748
+$i = 2147483
 do {
     Write-Host $i
-    Sleep 214748
+    Sleep 2147483
     $i--
 } while ($i -gt 0)
